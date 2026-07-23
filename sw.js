@@ -1,6 +1,6 @@
 // Cache name — bump this string any time you want to force-clear old
 // cached files (rarely needed).
-const CACHE_NAME = "states-app-v31";
+const CACHE_NAME = "states-app-v32";
 
 self.addEventListener("install", () => {
   self.skipWaiting();
